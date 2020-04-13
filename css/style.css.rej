@@ -1,0 +1,6 @@
+diff a/css/style.css b/css/style.css	(rejected hunks)
+@@ -0,0 +1,3 @@
++body{
++    background-color: indianred;
++}
+\ No newline at end of file
